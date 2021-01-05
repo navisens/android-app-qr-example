@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">QR Code Reader Navisens</string>
+    <string name="qr_code_header">Click &quot;Read QR code&quot; to read a QR code</string>
+    <string name="read_qr_code">Read QR code</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Use Flash</string>
+    <string name="qr_code_success">QR code read successfully</string>
+    <string name="qr_code_failure">No QR code captured</string>
+    <string name="qr_code_error">"Error reading QR code: %1$s"</string>
+    <string name="upload">Upload</string>
+</resources>
