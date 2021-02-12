@@ -32,5 +32,5 @@ dependencies {
     // Important - the CameraSource implementation in this project requires version 8.1 or higher.
     implementation 'com.google.android.gms:play-services-vision:20.1.2'
     implementation 'com.google.android.material:material:1.2.1'
-    implementation group: "com.navisens", name: "motiondnaapi", version: "2.0.2", changing: true
+    implementation group: "com.navisens", name: "motiondnaapi", version: "2.0.3", changing: true
 }
